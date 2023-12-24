@@ -12,11 +12,13 @@
     </style>
   </head>
   <body>
-    <div class="fade-in-text">
-  <p>Bella</p>
-</div>
+   
   </body>
 </html>
+
+ <div class="fade-in-text">
+  <p>Bella</p>
+</div>
 
 .fade-in-text {
   font-family: Arial;
