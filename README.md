@@ -102,7 +102,7 @@
       <p>Bella, I love you so much! You make me the happiest!</p>
       <p>Being with you gives me so much joy I can't explain</p>
       <p>with words alone. I look forward to spending many more</p>
-      <p>holidays with you, my love. heheheha<3</p>
+      <p>holidays with you, my love. <3</p>
     </div>
     <div class="images">
       <img
